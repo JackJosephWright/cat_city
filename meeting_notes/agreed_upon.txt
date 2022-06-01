@@ -1,0 +1,14 @@
+Aree on
+
+-interactive story tree
+-cat city story, investigative unfolding
+-hidden parameters open different parts of the story (different endings maybe)
+-hidden choices (not a click through for choice nodes)
+-NLP text parsing of users input to select the choice branch
+-inventory
+
+goal 1:
+
+LJ:
+-write the first node 
+-write 
